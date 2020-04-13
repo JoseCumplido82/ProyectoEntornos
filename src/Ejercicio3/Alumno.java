@@ -101,6 +101,7 @@ public class Alumno implements Serializable{
 		/**
 		 * En este metodo se Muestra la información del Alumno contenida en el fichero
 		 * @param fichero que es el string que le pasaremos
+		 * prueba en alumno del ejercicio 3 para ver en master
 		 * @return
 		 */
 		
