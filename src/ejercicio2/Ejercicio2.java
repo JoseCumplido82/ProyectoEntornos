@@ -135,7 +135,11 @@ public class Ejercicio2 {
 		
 	}
 	
-	
+	/**
+	 * Aqui tenemos el metodo borrar que sera la opcion 2 del menu
+	 * borrará el fichero especificado
+	 * @param fichero donde le pasaremos el nombre del fichero que deseamos borrar
+	 */
 	
 	
 	//metodo borrar fichero
@@ -150,7 +154,12 @@ public class Ejercicio2 {
 		}
 	}
 	
-	
+	/**
+	 * Aqui tenemos el metodo mostrar tamaño que sera la opcion 3 del menu
+	 * pedirá el nombre del fichero y nos dirá su tamaño en bytes.
+	 * @param fichero donde le pasaremos el nombre del fichero que deseamos que nos muestre su tamaño
+	 * @return devuelve el tamaño del fichero indicado
+	 */
 	
 	
 	//metodo mostrar tamaño del fichero
